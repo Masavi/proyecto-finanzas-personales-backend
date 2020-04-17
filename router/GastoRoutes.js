@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-const Gasto = require('./models/Gasto');
+const Gasto = require('../models/Gasto');
 
 // CRUD Gastos
 

@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-const Categoria = require('./models/Categoria');
+const Categoria = require('../models/Categoria');
 
 // CRUD categorias
 
